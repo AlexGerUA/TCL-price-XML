@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-11-16 14:56">
+  <shop>
+    <name>TCL — рекомендовані роздрібні ціни (РРЦ)</name>
+    <company>TCL</company>
+    <url>https://tcl-aircon.ua/</url>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Побутові</category>
+      <category id="2">Мобільні</category>
+      <category id="3">Осушувачі</category>
+    </categories>
+    <offers>
+      <offer id="TAC-09CHSA-XAB1">
+        <name>TCL TAC-09CHSA/XAB1 ON/OFF R32 WI-FI Ready</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSA/XAB1</vendorCode>
+        <model>TAC-09CHSA/XAB1 ON/OFF R32 WI-FI Ready</model>
+        <price>15999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">ELITE XAB1 ON/OFF R32 WI-FI Ready</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/8/84c11f28-30a3-11f0-ac44-005056a1f464.jpg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/7/77313d53-318c-11f0-ac44-005056a1f464.jpg</picture>
+      </offer>
+      <offer id="TAC-18CHSA-XAB1">
+        <name>TCL TAC-18CHSA/XAB1 ON/OFF R32 WI-FI Ready</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-18CHSA/XAB1</vendorCode>
+        <model>TAC-18CHSA/XAB1 ON/OFF R32 WI-FI Ready</model>
+        <price>31199</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">ELITE XAB1 ON/OFF R32 WI-FI Ready</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/7/77313d56-318c-11f0-ac44-005056a1f464.jpg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/7/77313d57-318c-11f0-ac44-005056a1f464.jpg</picture>
+      </offer>
+      <offer id="TAC-24CHSA-XAB1">
+        <name>TCL TAC-24CHSA/XAB1 ON/OFF R32 WI-FI Ready</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-24CHSA/XAB1</vendorCode>
+        <model>TAC-24CHSA/XAB1 ON/OFF R32 WI-FI Ready</model>
+        <price>38599</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">ELITE XAB1 ON/OFF R32 WI-FI Ready</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/7/77313d58-318c-11f0-ac44-005056a1f464.jpg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/7/77313d59-318c-11f0-ac44-005056a1f464.jpg</picture>
+      </offer>
+      <offer id="TAC-07CHSD-ZG31">
+        <name>TCL TAC-07CHSD/ZG31 ON/OFF R32 WI-FI Ready</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-07CHSD/ZG31</vendorCode>
+        <model>TAC-07CHSD/ZG31 ON/OFF R32 WI-FI Ready</model>
+        <price>13999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG31 ON/OFF R32 WI-FI Ready</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e5f6a929-71f1-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e5f6a92f-71f1-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-09CHSD-ZG31">
+        <name>TCL TAC-09CHSD/ZG31 ON/OFF R32 WI-FI Ready</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSD/ZG31</vendorCode>
+        <model>TAC-09CHSD/ZG31 ON/OFF R32 WI-FI Ready</model>
+        <price>15999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG31 ON/OFF R32 WI-FI Ready</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/8/8f24084e-a050-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/8/8f24084d-a050-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-12CHSD-ZG31">
+        <name>TCL TAC-12CHSD/ZG31 ON/OFF R32 WI-FI Ready</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/ZG31</vendorCode>
+        <model>TAC-12CHSD/ZG31 ON/OFF R32 WI-FI Ready</model>
+        <price>17899</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG31 ON/OFF R32 WI-FI Ready</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/f/f3dff53a-81ae-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/f/f3dff53c-81ae-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-09CHSD-ZG11I">
+        <name>TCL TAC-09CHSD/ZG11I AI Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSD/ZG11I</vendorCode>
+        <model>TAC-09CHSD/ZG11I AI Inverter R32 WI-FI</model>
+        <price>20699</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG11I AI Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/2/27105270-2690-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/2/27105282-2690-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-12CHSD-ZG11I">
+        <name>TCL TAC-12CHSD/ZG11I AI Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/ZG11I</vendorCode>
+        <model>TAC-12CHSD/ZG11I AI Inverter R32 WI-FI</model>
+        <price>23599</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG11I AI Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c49-269f-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c4c-269f-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-18CHSD-ZG11I">
+        <name>TCL TAC-18CHSD/ZG11I AI Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-18CHSD/ZG11I</vendorCode>
+        <model>TAC-18CHSD/ZG11I AI Inverter R32 WI-FI</model>
+        <price>35999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG11I AI Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c4a-269f-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c4d-269f-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-09CHSD-TPH21IF">
+        <name>TCL TAC-09CHSD/TPH21IF Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSD/TPH21IF</vendorCode>
+        <model>TAC-09CHSD/TPH21IF Inverter R32 WI-FI</model>
+        <price>21799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">BreezeIN 1.0 TPH21I Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/6/69e5b60f-57de-11f0-ac44-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/6/69e5b614-57de-11f0-ac44-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-12CHSD-TPH21IF">
+        <name>TCL TAC-12CHSD/TPH21IF Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/TPH21IF</vendorCode>
+        <model>TAC-12CHSD/TPH21IF Inverter R32 WI-FI</model>
+        <price>25299</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">BreezeIN 1.0 TPH21I Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/6/69e5b615-57de-11f0-ac44-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/6/69e5b618-57de-11f0-ac44-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-18CHSD-TPH21I">
+        <name>TCL TAC-18CHSD/TPH21I Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-18CHSD/TPH21I</vendorCode>
+        <model>TAC-18CHSD/TPH21I Inverter R32 WI-FI</model>
+        <price>37999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">BreezeIN 1.0 TPH21I Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/6/69e5b619-57de-11f0-ac44-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/6/69e5b61b-57de-11f0-ac44-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-12CHSD-XA82IN">
+        <name>TCL TAC-12CHSD/XA82IN Black Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/XA82IN</vendorCode>
+        <model>TAC-12CHSD/XA82IN Black Inverter R32 WI-FI</model>
+        <price>25699</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">ELITE XA82IN Black Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/0/08dd8a0f-8ba6-11eb-8f3b-005056a1f464.png</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/0/08dd8a13-8ba6-11eb-8f3b-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-24CHSD-XA82IN">
+        <name>TCL TAC-24CHSD/XA82IN Black Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-24CHSD/XA82IN</vendorCode>
+        <model>TAC-24CHSD/XA82IN Black Inverter R32 WI-FI</model>
+        <price>46899</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">ELITE XA82IN Black Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/4/4519d34d-7657-11ef-aafb-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/4/4519d34f-7657-11ef-aafb-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-09CHSD-TPH11IHB">
+        <name>TCL TAC-09CHSD/TPH11IHB Heat Pump Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSD/TPH11IHB</vendorCode>
+        <model>TAC-09CHSD/TPH11IHB Heat Pump Inverter R32 WI-FI</model>
+        <price>23599</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">BreezeIN 1.0 TPH11IHB Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/a/a16c6985-6449-11ef-aafb-005056a1f464.png</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/a/a16c6998-6449-11ef-aafb-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-12CHSD-TPH11IHB">
+        <name>TCL TAC-12CHSD/TPH11IHB Heat Pump Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/TPH11IHB</vendorCode>
+        <model>TAC-12CHSD/TPH11IHB Heat Pump Inverter R32 WI-FI</model>
+        <price>26899</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">BreezeIN 1.0 TPH11IHB Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/a/a16c698e-6449-11ef-aafb-005056a1f464.png</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/a/a16c6999-6449-11ef-aafb-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-24CHSD-TPH11IHB">
+        <name>TCL TAC-24CHSD/TPH11IHB Heat Pump Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-24CHSD/TPH11IHB</vendorCode>
+        <model>TAC-24CHSD/TPH11IHB Heat Pump Inverter R32 WI-FI</model>
+        <price>50999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">BreezeIN 1.0 TPH11IHB Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/a/a16c6993-6449-11ef-aafb-005056a1f464.png</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/a/a16c699b-6449-11ef-aafb-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-09CHSD-ZG41IHB">
+        <name>TCL TAC-09CHSD/ZG41IHB Black Heat Pump Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSD/ZG41IHB</vendorCode>
+        <model>TAC-09CHSD/ZG41IHB Black Heat Pump Inverter R32 WI-FI</model>
+        <price>25699</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG41IHB Black Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/2/27105281-2690-11f1-ae86-005056a1f464.png</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c5b-269f-11f1-ae86-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-12CHSD-ZG41IHB">
+        <name>TCL TAC-12CHSD/ZG41IHB Black Heat Pump Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/ZG41IHB</vendorCode>
+        <model>TAC-12CHSD/ZG41IHB Black Heat Pump Inverter R32 WI-FI</model>
+        <price>28799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG41IHB Black Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c5c-269f-11f1-ae86-005056a1f464.png</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c5d-269f-11f1-ae86-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-18CHSD-ZG41IHB">
+        <name>TCL TAC-18CHSD/ZG41IHB Black Heat Pump Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-18CHSD/ZG41IHB</vendorCode>
+        <model>TAC-18CHSD/ZG41IHB Black Heat Pump Inverter R32 WI-FI</model>
+        <price>42699</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG41IHB Black Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c63-269f-11f1-ae86-005056a1f464.png</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c5f-269f-11f1-ae86-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-24CHSD-ZG41IHB">
+        <name>TCL TAC-24CHSD/ZG41IHB Black Heat Pump Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-24CHSD/ZG41IHB</vendorCode>
+        <model>TAC-24CHSD/ZG41IHB Black Heat Pump Inverter R32 WI-FI</model>
+        <price>52999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">SaveIN ZG41IHB Black Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c60-269f-11f1-ae86-005056a1f464.png</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/e/e9d10c62-269f-11f1-ae86-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-09CHSD-UG11V3AHB-VoxIN">
+        <name>TCL TAC-09CHSD/UG11V3AHB VoxIN Heat Pump R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSD/UG11V3AHB (VoxIN)</vendorCode>
+        <model>TAC-09CHSD/UG11V3AHB VoxIN Heat Pump R32 WI-FI</model>
+        <price>29799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">VoxIN UG11 Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/a/a5554330-b0cb-11f1-ae86-005056a1f464.png</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/a/a5554331-b0cb-11f1-ae86-005056a1f464.png</picture>
+      </offer>
+      <offer id="TAC-12CHSD-UG11V3AHB-VoxIN">
+        <name>TCL TAC-12CHSD/UG11V3AHB VoxIN Heat Pump R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/UG11V3AHB (VoxIN)</vendorCode>
+        <model>TAC-12CHSD/UG11V3AHB VoxIN Heat Pump R32 WI-FI</model>
+        <price>32699</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">VoxIN UG11 Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/d/d09254ce-7b5b-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/d/d09254cf-7b5b-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-18CHSD-UG11V3AHB-VoxIN">
+        <name>TCL TAC-18CHSD/UG11V3AHB VoxIN Heat Pump R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-18CHSD/UG11V3AHB (VoxIN)</vendorCode>
+        <model>TAC-18CHSD/UG11V3AHB VoxIN Heat Pump R32 WI-FI</model>
+        <price>47999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">VoxIN UG11 Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/d/d09254d0-7b5b-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/d/d09254d1-7b5b-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-09CHSD-FAI">
+        <name>TCL TAC-09CHSD/FAI Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSD/FAI</vendorCode>
+        <model>TAC-09CHSD/FAI Inverter R32 WI-FI</model>
+        <price>32999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">FreshIN 1.0 FAI Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/d/d734a592-e8c6-11ed-941f-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/d/d734a59b-e8c6-11ed-941f-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-12CHSD-FAI">
+        <name>TCL TAC-12CHSD/FAI Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/FAI</vendorCode>
+        <model>TAC-12CHSD/FAI Inverter R32 WI-FI</model>
+        <price>37399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">FreshIN 1.0 FAI Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/7/7d4cf981-eb39-11ed-941f-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/f/f52bb2a4-eb57-11ed-941f-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-09CHSD-FBI">
+        <name>TCL TAC-09CHSD/FBI Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSD/FBI</vendorCode>
+        <model>TAC-09CHSD/FBI Inverter R32 WI-FI</model>
+        <price>42499</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">FreshIN 2.0 FBI Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/9/95a981e3-cfc2-11ee-aafb-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/9/95a981e4-cfc2-11ee-aafb-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-12CHSD-FBI">
+        <name>TCL TAC-12CHSD/FBI Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/FBI</vendorCode>
+        <model>TAC-12CHSD/FBI Inverter R32 WI-FI</model>
+        <price>44799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">FreshIN 2.0 FBI Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/9/95a981e6-cfc2-11ee-aafb-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/9/95a981e7-cfc2-11ee-aafb-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-09CHSD-FCI">
+        <name>TCL TAC-09CHSD/FCI Heat Pump Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-09CHSD/FCI</vendorCode>
+        <model>TAC-09CHSD/FCI Heat Pump Inverter R32 WI-FI</model>
+        <price>46999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">FreshIN 3.0 FCI Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/9/95020571-3098-11f0-ac44-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/0/0c296bf2-315a-11f0-ac44-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-12CHSD-FCI">
+        <name>TCL TAC-12CHSD/FCI Heat Pump Inverter R32 WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CHSD/FCI</vendorCode>
+        <model>TAC-12CHSD/FCI Heat Pump Inverter R32 WI-FI</model>
+        <price>51499</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">FreshIN 3.0 FCI Heat Pump Inverter R32 WI-FI</param>
+        <picture>https://product.tcl-aircon.com.ua/files/img/0/0c296bf7-315a-11f0-ac44-005056a1f464.jpeg</picture>
+        <picture>https://product.tcl-aircon.com.ua/files/img/0/0c296bfa-315a-11f0-ac44-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-07CPB-PSLWS">
+        <name>TCL TAC-07CPB/PSLWS WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-07CPB/PSLWS</vendorCode>
+        <model>TAC-07CPB/PSLWS WI-FI</model>
+        <price>12999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://product.tcl-aircon.com.ua/files/img/2/26e02087-4202-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="TAC-12CPB-MZWS">
+        <name>TCL TAC-12CPB/MZWS WI-FI</name>
+        <vendor>TCL</vendor>
+        <vendorCode>TAC-12CPB/MZWS</vendorCode>
+        <model>TAC-12CPB/MZWS WI-FI</model>
+        <price>21799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://product.tcl-aircon.com.ua/files/img/1/1d6c5e38-41ff-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="DEL10EB">
+        <name>TCL DEL10EB</name>
+        <vendor>TCL</vendor>
+        <vendorCode>DEL10EB</vendorCode>
+        <model>DEL10EB</model>
+        <price>7399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://product.tcl-aircon.com.ua/files/img/5/564c77b8-3c1a-11ee-aafb-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="DFL20EB">
+        <name>TCL DFL20EB</name>
+        <vendor>TCL</vendor>
+        <vendorCode>DFL20EB</vendorCode>
+        <model>DFL20EB</model>
+        <price>11499</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://product.tcl-aircon.com.ua/files/img/8/8aee2674-6e1d-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="DEM25EB">
+        <name>TCL DEM25EB</name>
+        <vendor>TCL</vendor>
+        <vendorCode>DEM25EB</vendorCode>
+        <model>DEM25EB</model>
+        <price>12299</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://product.tcl-aircon.com.ua/files/img/5/564c77bc-3c1a-11ee-aafb-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="DEM35EB">
+        <name>TCL DEM35EB</name>
+        <vendor>TCL</vendor>
+        <vendorCode>DEM35EB</vendorCode>
+        <model>DEM35EB</model>
+        <price>14199</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://product.tcl-aircon.com.ua/files/img/0/07011bf2-dc7f-11ef-b979-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="DEM50EB">
+        <name>TCL DEM50EB</name>
+        <vendor>TCL</vendor>
+        <vendorCode>DEM50EB</vendorCode>
+        <model>DEM50EB</model>
+        <price>15499</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://product.tcl-aircon.com.ua/files/img/5/564c77be-3c1a-11ee-aafb-005056a1f464.jpeg</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
