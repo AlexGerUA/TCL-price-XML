@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-16 14:56">
+<yml_catalog date="2026-11-17 18:00">
   <shop>
     <name>TCL — рекомендовані роздрібні ціни (РРЦ)</name>
     <company>TCL</company>
@@ -412,26 +412,6 @@
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
         <picture>https://product.tcl-aircon.com.ua/files/img/8/8aee2674-6e1d-11f1-ae86-005056a1f464.jpeg</picture>
-      </offer>
-      <offer id="DEM25EB">
-        <name>TCL DEM25EB</name>
-        <vendor>TCL</vendor>
-        <vendorCode>DEM25EB</vendorCode>
-        <model>DEM25EB</model>
-        <price>12299</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://product.tcl-aircon.com.ua/files/img/5/564c77bc-3c1a-11ee-aafb-005056a1f464.jpeg</picture>
-      </offer>
-      <offer id="DEM35EB">
-        <name>TCL DEM35EB</name>
-        <vendor>TCL</vendor>
-        <vendorCode>DEM35EB</vendorCode>
-        <model>DEM35EB</model>
-        <price>14199</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://product.tcl-aircon.com.ua/files/img/0/07011bf2-dc7f-11ef-b979-005056a1f464.jpeg</picture>
       </offer>
       <offer id="DEM50EB">
         <name>TCL DEM50EB</name>
