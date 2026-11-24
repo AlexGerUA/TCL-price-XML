@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-17 22:21">
+<yml_catalog date="2026-11-24 18:01">
   <shop>
     <name>TCL — рекомендовані роздрібні ціни (РРЦ)</name>
     <company>TCL</company>
@@ -1800,44 +1800,6 @@
         <param name="Продуктивність осушення, л /день (Умова тесту 27/21.25(RH60%))">6,1</param>
         <param name="Вхідна потужність, Вт (Умова тесту 27/21.25(RH60%))">190</param>
         <param name="Робочий струм, A (Умова тесту 27/21.25(RH60%))">1,1</param>
-      </offer>
-      <offer id="DFL20EB">
-        <name>TCL DFL20EB</name>
-        <url>https://tcl-aircon.ua/catalog/osushuvachi-povitrya/osushuvach-pov-trya-tcl-dfl20eb/</url>
-        <vendor>TCL</vendor>
-        <vendorCode>DFL20EB</vendorCode>
-        <model>DFL20EB</model>
-        <price>11499</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2025/11/dfl-1new.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2025/11/dfl-1-1.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2025/11/dfl-1-2.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2025/11/dfl-1-3.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2025/11/dfl-1-4.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2025/11/dfl-1-5.png</picture>
-        <description>&lt;p&gt;&lt;b&gt;Переваги:&lt;/b&gt; Індикатор повного баку, Легко очисний фільтр, Світлодіодний дисплей, Безперервний дренаж, Холодоагент R290, 3 швидкості вентилятора, Режим розумного відтаювання, Функція самодіагностики, Таймер 24 години, Авторестарт, Низький рівень шуму, Ручка для переміщення, Ролики, що обертаються.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Холодоагент R290.&lt;/b&gt; Холодоагент R290 – володіє нульовим потенціалом озоноруйнування і низьким потенціалом глобального потепління (GWP=3).&lt;/li&gt;&lt;li&gt;&lt;b&gt;Безперервний дренаж.&lt;/b&gt; Безперервний дренаж – за допомогою зливної трубки, пристрій може працювати безперервно без зливання баку.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Захист від переливу.&lt;/b&gt; При заповненому резервуарі пристрій автоматично вимикається та за допомогою індикації повного баку просигналізує про необхідність спустошити бак. Це дозволить уникнути ризику витоку.&lt;/li&gt;&lt;/ul&gt;</description>
-        <param name="Видалення вологи, л/день">до 20</param>
-        <param name="Площа, м²">до 50</param>
-        <param name="Об'єм бака, л">3,4</param>
-        <param name="Номінальна вхідна потужність, Вт">475</param>
-        <param name="Номінальний струм, A">2,7</param>
-        <param name="Потік повітря в приміщенні, м³/год">200 / 160 / 140</param>
-        <param name="Напруга / Частота джерела живлення (В/Гц)">220 - 240 V/50Hz</param>
-        <param name="Холодоагент / GWP / CO₂">R290 / 3 / 0,000195</param>
-        <param name="Кількість холодоагенту, г">65</param>
-        <param name="Максимальний тиск нагнітання, МПa">1,2</param>
-        <param name="Максимально допустимий тиск, MПa">2,3</param>
-        <param name="Розміри корпусу (Ш × В × Г), мм">310 × 530 × 286</param>
-        <param name="Вага нетто, кг">11,6</param>
-        <param name="Вага брутто, кг">12,4</param>
-        <param name="Рівень шуму, дБ">46 / 43 / 39</param>
-        <param name="Продуктивність осушення, л /день">20</param>
-        <param name="Вхідна потужність, Вт">410</param>
-        <param name="Робочий струм, A">2,4</param>
-        <param name="Продуктивність осушення, л /день (Умова тесту 32/29 (RH80%))">22</param>
-        <param name="Вхідна потужність, Вт (Умова тесту 32/29 (RH80%))">430</param>
-        <param name="Робочий струм, A (Умова тесту 32/29 (RH80%))">2,5</param>
       </offer>
       <offer id="DEM50EB">
         <name>TCL DEM50EB</name>
