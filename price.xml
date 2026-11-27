@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-25 18:01">
+<yml_catalog date="2026-11-27 18:01">
   <shop>
     <name>TCL — рекомендовані роздрібні ціни (РРЦ)</name>
     <company>TCL</company>
@@ -1634,41 +1634,6 @@
         <param name="Підключення проводів, мм²">4 x 0,75</param>
         <param name="Температурний режим: охолодження, °С">-15 ~ +53</param>
         <param name="Температурний режим: обігрів, °С">-30 ~ +30</param>
-      </offer>
-      <offer id="TAC-07CPB-PSLWS">
-        <name>TCL TAC-07CPB/PSLWS WI-FI</name>
-        <url>https://tcl-aircon.ua/catalog/mobilni-konditsioneri/mob-lniy-kondits-oner-tcl-tac-07cpb-pslws-wi-fi/</url>
-        <vendor>TCL</vendor>
-        <vendorCode>TAC-07CPB/PSLWS</vendorCode>
-        <model>TAC-07CPB/PSLWS WI-FI</model>
-        <price>12999</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2024/03/psl-main_2-1.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2024/03/psl_2.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2024/03/psl_3.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2024/03/bez-imeni-1.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2024/03/v7xcpvvbcyjcntposa16gx16gqvuxjzt-9.jpg</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2024/03/window-kit.png</picture>
-        <picture>https://tcl-aircon.ua/wp-content/uploads/2024/02/window-kit-2.png</picture>
-        <description>&lt;p&gt;&lt;b&gt;Переваги:&lt;/b&gt; Ролики, що обертаються, Робота без дренажу, Легке підключення через вікно, Світлодіодний дисплей, Низький рівень шуму, 3 режими роботи, Холодоагент R290, IoT Wi Fi керування, Функція самодіагностики, Режим розумного відтаювання, Авторестарт, Режим сну, Гойдання жалюзі (ручне), 2 швидкості вентилятора, Таймер 24 години.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IoT Wi-Fi керування.&lt;/b&gt; Керування побутовою технікою TCL за допомогою єдиного додатку, підтримка голосового керування на основі глибокої нейронної мережі. Додаток TCL HOME.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Таймер 24 години.&lt;/b&gt; Можливість налаштувати автоматичне увімкнення або вимкнення кондиціонера за встановленим таймером протягом 24 годин, з дискретністю 0,5 годин.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Легко очисний фільтр.&lt;/b&gt; Багаторазовий миючий фільтр зменшує кількість бактерій, запахів та інших частинок, що потрапляють у повітря, для здорового та комфортного середовища.&lt;/li&gt;&lt;li&gt;&lt;b&gt;2 швидкості вентилятора.&lt;/b&gt; Насолоджуйтеся більшою гнучкістю охолодження з двома різними швидкостями вентилятора.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Зручне переміщення.&lt;/b&gt; Завдяки зручній конструкції ручки та чотирьом колесам, розташованим на нижній частині кондиціонера, пристрій легко переміщувати.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Монтаж кондиціонера.&lt;/b&gt; Віконний монтажний комплект та додатковий віконний ущільнювач, забезпечують зручне та гнучке вставновлення кондиціонера&lt;/li&gt;&lt;li&gt;&lt;b&gt;Режим осушення.&lt;/b&gt; Підтримує комфорт у домі, видаляючи надлишок вологи з повітря.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Робота без дренажу.&lt;/b&gt; В режимі охолодження чи режимі вентиляції – при низькій вологості, можливо буде відсутня необхідність підключення дренажу для відведення конденсатної води. Пристрій сконструйовано таким чином, що під час роботи він повертає велику частину вологи назад у повітря.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Холодоагент R290.&lt;/b&gt; Холодоагент R290 – володіє нульовим потенціалом озоноруйнування і низьким потенціалом глобального потепління (GWP=3).&lt;/li&gt;&lt;/ul&gt;</description>
-        <param name="Площа, м²">до 20</param>
-        <param name="Холодопродуктивність, BTU/год">7 000</param>
-        <param name="Холодопродуктивність, Вт">2 055</param>
-        <param name="EER / Клас енергоефективності при Охолодженні">2,6 (А)</param>
-        <param name="Номінальна потужність, Вт">790</param>
-        <param name="Максимальна потужність, Вт">1 100</param>
-        <param name="Номінальна сила струму, А">3,5</param>
-        <param name="Максимальна сила струму, А">4,8</param>
-        <param name="Напруга / Частота джерела живлення, ф./В/Гц">1 / 220 - 240 / 50</param>
-        <param name="Тип холодоагенту / GWP / CO₂">R290/ 3 / 0,0005</param>
-        <param name="Кількість холодоагенту, г">125</param>
-        <param name="Обсяг повітря, що рециркулюється (охолодження), м3/год">320 / 260</param>
-        <param name="Мінімальний/максимальний тиск, мПа">1,2 / 2,3</param>
-        <param name="Розміри (Ш × В × Г), мм">280 × 675 × 290</param>
-        <param name="Маса (нетто), кг">19,6</param>
-        <param name="Рівень шуму, дБ">54 / 51</param>
-        <param name="Температурний режим (охолодження), °C">+18 ~ +35</param>
       </offer>
       <offer id="TAC-12CPB-MZWS">
         <name>TCL TAC-12CPB/MZWS WI-FI</name>
